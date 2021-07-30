@@ -1,0 +1,13 @@
+C:\Users\LABORATORIO\Desktop\05 11 2015\VISUALSTU\ExemploCRUD\ExemploCRUD\bin\ExemploCRUD.dll.config
+C:\Users\LABORATORIO\Desktop\05 11 2015\VISUALSTU\ExemploCRUD\ExemploCRUD\bin\ExemploCRUD.dll
+C:\Users\LABORATORIO\Desktop\05 11 2015\VISUALSTU\ExemploCRUD\ExemploCRUD\bin\ExemploCRUD.pdb
+C:\Users\LABORATORIO\Desktop\05 11 2015\VISUALSTU\ExemploCRUD\ExemploCRUD\obj\Debug\ExemploCRUD.csprojResolveAssemblyReference.cache
+C:\Users\LABORATORIO\Desktop\05 11 2015\VISUALSTU\ExemploCRUD\ExemploCRUD\obj\Debug\ExemploCRUD.dll
+C:\Users\LABORATORIO\Desktop\05 11 2015\VISUALSTU\ExemploCRUD\ExemploCRUD\obj\Debug\ExemploCRUD.pdb
+C:\Users\aluno\Downloads\05 11 2015-20190902T213818Z-001\05 11 2015\VISUALSTU\ExemploCRUD\ExemploCRUD\bin\ExemploCRUD.dll.config
+C:\Users\aluno\Downloads\05 11 2015-20190902T213818Z-001\05 11 2015\VISUALSTU\ExemploCRUD\ExemploCRUD\bin\ExemploCRUD.dll
+C:\Users\aluno\Downloads\05 11 2015-20190902T213818Z-001\05 11 2015\VISUALSTU\ExemploCRUD\ExemploCRUD\bin\ExemploCRUD.pdb
+C:\Users\aluno\Downloads\05 11 2015-20190902T213818Z-001\05 11 2015\VISUALSTU\ExemploCRUD\ExemploCRUD\obj\Debug\ExemploCRUD.csprojAssemblyReference.cache
+C:\Users\aluno\Downloads\05 11 2015-20190902T213818Z-001\05 11 2015\VISUALSTU\ExemploCRUD\ExemploCRUD\obj\Debug\ExemploCRUD.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\05 11 2015-20190902T213818Z-001\05 11 2015\VISUALSTU\ExemploCRUD\ExemploCRUD\obj\Debug\ExemploCRUD.dll
+C:\Users\aluno\Downloads\05 11 2015-20190902T213818Z-001\05 11 2015\VISUALSTU\ExemploCRUD\ExemploCRUD\obj\Debug\ExemploCRUD.pdb

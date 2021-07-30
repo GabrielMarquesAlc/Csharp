@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Cadastro";
+}
+
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+@Styles.Render("~/Content/cadastroestilo.css")
+
+
+<form action="/preenchevalores" method="post">
+    <div>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" />
+    </div>
+    <div>
+        <label for="valor">Valor:</label>
+        <input type="text" id="valor"/>
+    </div>
+    <div>
+        <label for="Observacao">Observação:</label>
+        <textarea id="Observacao"></textarea>
+    </div>
+    <div class="button">
+        <button type="submit">Enviar sua mensagem</button>
+    </div>
+</form>

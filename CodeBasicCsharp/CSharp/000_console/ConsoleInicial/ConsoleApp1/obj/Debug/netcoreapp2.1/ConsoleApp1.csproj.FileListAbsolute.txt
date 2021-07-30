@@ -1,0 +1,11 @@
+D:\Projetos\000\0002 - Microsoft - CSharp\000_console\ConsoleInicial\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\Projetos\000\0002 - Microsoft - CSharp\000_console\ConsoleInicial\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\Projetos\000\0002 - Microsoft - CSharp\000_console\ConsoleInicial\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Projetos\000\0002 - Microsoft - CSharp\000_console\ConsoleInicial\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Projetos\000\0002 - Microsoft - CSharp\000_console\ConsoleInicial\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\Projetos\000\0002 - Microsoft - CSharp\000_console\ConsoleInicial\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Projetos\000\0002 - Microsoft - CSharp\000_console\ConsoleInicial\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Projetos\000\0002 - Microsoft - CSharp\000_console\ConsoleInicial\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Projetos\000\0002 - Microsoft - CSharp\000_console\ConsoleInicial\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\Projetos\000\0002 - Microsoft - CSharp\000_console\ConsoleInicial\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Projetos\000\0002 - Microsoft - CSharp\000_console\ConsoleInicial\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb

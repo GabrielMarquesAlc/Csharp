@@ -1,0 +1,10 @@
+D:\Develop\PrjColorBall\PrjColorBall\bin\Debug\PrjColorBall.exe.config
+D:\Develop\PrjColorBall\PrjColorBall\bin\Debug\PrjColorBall.exe
+D:\Develop\PrjColorBall\PrjColorBall\bin\Debug\PrjColorBall.pdb
+D:\Develop\PrjColorBall\PrjColorBall\obj\Debug\PrjColorBall.csprojAssemblyReference.cache
+D:\Develop\PrjColorBall\PrjColorBall\obj\Debug\PrjColorBall.Form1.resources
+D:\Develop\PrjColorBall\PrjColorBall\obj\Debug\PrjColorBall.Properties.Resources.resources
+D:\Develop\PrjColorBall\PrjColorBall\obj\Debug\PrjColorBall.csproj.GenerateResource.cache
+D:\Develop\PrjColorBall\PrjColorBall\obj\Debug\PrjColorBall.csproj.CoreCompileInputs.cache
+D:\Develop\PrjColorBall\PrjColorBall\obj\Debug\PrjColorBall.exe
+D:\Develop\PrjColorBall\PrjColorBall\obj\Debug\PrjColorBall.pdb
